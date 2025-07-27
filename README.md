@@ -1,6 +1,6 @@
  # Livestock Management System
 
-I built A comprehensive web-based application in 2 weeks and 3 days designed to manage various aspects of livestock on a farm, from basic animal records to health, breeding, feeding, vaccination, mortality, and movement data. This system demonstrates full-stack development capabilities using PHP and MySQL.
+I built A comprehensive web-based application in 2 weeks and a few days designed to manage various aspects of livestock on a farm, from basic animal records to health, breeding, feeding, vaccination, mortality, and movement data. This system demonstrates full-stack development capabilities using PHP and MySQL.
 I still need to fix a table theres an sql issue with Vaccines,pausably the missing colunm in the table and Livestock table need to fix id requirements.
 ## Key Features
 
